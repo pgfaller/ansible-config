@@ -1,0 +1,4 @@
+# From Github
+#- src: https://github.com/tschifftner/ansible-role-motd.git
+# From Galaxy
+- src: tschifftner.motd
