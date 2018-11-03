@@ -1,0 +1,22 @@
+all:
+  children:
+    physical:
+      hosts:
+        neptune:
+        jupiter:
+        saturn:
+    neptune-lxd:
+      hosts:
+        devcdmconfig01:
+        devcdlsam01:
+        devcalsam01:
+        devcalidm01:
+        devcdmcust01:
+    jupiter-lxd:
+      hosts:
+        devcdlncmapp01:
+    saturn-lxd:
+      hosts:
+        devcdlapgprtl01:
+        devcalapgdb01:
+

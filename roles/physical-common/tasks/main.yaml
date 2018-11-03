@@ -1,0 +1,6 @@
+---
+- name: test connection
+  ping:
+- name: Debug
+  debug:
+    msg: 'Done a ping'
